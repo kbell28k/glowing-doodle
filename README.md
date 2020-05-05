@@ -1,1 +1,44 @@
-# glowing-doodle
+#  PawPals
+
+![image]()
+
+
+
+## :computer: Developers
+
+* :woman_office_worker: Kayla Bell - Front End / Back End
+
+⭐️ Star this on GitHub — it helps!
+
+[PawPals](https://pawpalz.herokuapp.com/).  will act as a broker for car dealers and agents. The app will prompt car dealers to provide information for insurance  providers. The information given will allow insurance providers to contact car dealers and provide them with a quote based  on the plan they request. In return car dealers will be offered competitive prices for their insurance. 
+
+
+![image]() 
+
+## Table of Contents
+
+- [Functionality]()
+    - [Registration/Login]()
+    
+      - The user will register and login to the website with a email and password.
+      
+    - [Profile Page]()
+    - Users will be able to complete a variety of information including personal and payment preferences, as well as see appointments on an upcoming schedule. 
+      
+    - [Businesses]()
+    - The main functionality of this app comes from being able to schedule services at different businesses for the users pet.
+      
+    
+    
+    
+- [Packages]()
+
+    
+    ![image]()
+    
+ - [Database]()
+    - [MongoDB]()
+      - MongoDB is a cross-platform and open-source document-oriented database, a kind of NoSQL database. As a NoSQL database, MongoDB shuns the relational database’s table-based structure to adapt JSON-like documents that have dynamic schemas which it calls BSON.  This makes data integration for certain types of applications faster and easier. MongoDB is built for scalability, high availability and performance from a single server deployment to large and complex multi-site infrastructures. (Techopedia, 2020)
+      
+      ![image]()
+
