@@ -1,6 +1,6 @@
 #  PawPals
 
-![image](.imgs/concept)
+![image](https://github.com/kbell28k/glowing-doodle/blob/master/imgs/concept.png)
 
 
 
