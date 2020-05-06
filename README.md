@@ -11,7 +11,7 @@
 
 ⭐️ Star this on GitHub — it helps!
 
-[PawPals](https://pawpalz.herokuapp.com/).  will act as a broker for car dealers and agents. The app will prompt car dealers to provide information for insurance  providers. The information given will allow insurance providers to contact car dealers and provide them with a quote based  on the plan they request. In return car dealers will be offered competitive prices for their insurance. 
+[PawPals](https://pawpalz.herokuapp.com/).  will act as a global forum for pet owners and businesses. The app will allow businesses to enter in service types and information, and will prompt the pet owner to choose the service and appointment time.  The app allows a single-platform location for pet resources in the client's area.
 
 
 ![image]() 
