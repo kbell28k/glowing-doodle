@@ -19,14 +19,13 @@
 
 - [Functionality]()
     - [Registration/Login]()
-    
-      - The user will register and login to the website with a email and password.
+        - The user will register and login to the website with a email and password.
       
     - [Clients]()
-    - Users will be able to complete a variety of information including personal and payment preferences, as well as see appointments on an upcoming schedule. 
+        - Users will be able to complete a variety of information including personal and payment preferences, as well as see appointments on an upcoming schedule. 
       
     - [Businesses]()
-    - The main functionality of this app comes from being able to schedule services at different businesses for the users pet.
+        - The main functionality of this app comes from being able to schedule services at different businesses for the users pet.
       
     
   - [Packages](#Packages)
