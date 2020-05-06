@@ -22,16 +22,42 @@
     
       - The user will register and login to the website with a email and password.
       
-    - [Profile Page]()
+    - [Clients]()
     - Users will be able to complete a variety of information including personal and payment preferences, as well as see appointments on an upcoming schedule. 
       
     - [Businesses]()
     - The main functionality of this app comes from being able to schedule services at different businesses for the users pet.
       
     
+  - [Packages](#Packages)
+    - [Axios](#Axios)
+        - Axios is used to send requests to the server to fetch or insert data.
     
+    - [Body-Parser](#Body-Parser)
+        - Body-Parser parses the request bodies.  It allows access to the information inside the request via req.body
+     
+    - [Babel-Cli](#Babel-Cli)
+        - Babel-Cli is used to compile files from the command line.
+      
+    - [Express](#Express)
+        - Express is a web application framework for NodeJS. 
+        
+    - [Mongoose](#Mongoose)
+        - Mongoose is an ODM framework for MongoDB.
+        
+    - [Nodemon](#Nodemon)
+        - Nodemon automatically restarts the server whenever the code changes.
+        
+    - [React-Bootstrap](#React-Bootstrap)
+        - React-Bootstrap allows use of bootstrap components with React.
+        
+    - [React-Modal](#React-Modal)
+        - React-Modal allows creation of a modal dialog in React.
+        
+    - [React-Router-Dom](#React-Router-Dom)
+        - React-Router-Dom allows use of React router. 
     
-- [Packages]()
+
 
     
     ![image]()
