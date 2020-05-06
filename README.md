@@ -7,6 +7,7 @@
 ## :computer: Developers
 
 * :woman_office_worker: Kayla Bell - Front End / Back End
+* :man_office_worker: Benjamin Tribble - Graphic Design
 
 ⭐️ Star this on GitHub — it helps!
 
